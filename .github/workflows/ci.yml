@@ -20,8 +20,8 @@ jobs:
 
       - name: Set up Git configuration
         run: |
-          git config --local user.email "1497055242@qq.com"
-          git config --local user.name "Qi_YiJun"
+          git config --local user.email "buriosei432@gmail.com"
+          git config --local user.name "buriosei432-code"
 
       - name: Make changes
         run: |
